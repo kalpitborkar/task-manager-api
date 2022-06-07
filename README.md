@@ -14,3 +14,6 @@ This is a Task Management REST API back-end built with Node.js and MongoDB.
 - [Node.js](https://nodejs.org/en/)
 - [Express.js](https://expressjs.com/)
 - [MongoDB (Atlas)](https://www.mongodb.com/cloud)
+
+## License
+Distributed under the MIT License. See `LICENSE.md` for more information.
